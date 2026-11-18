@@ -19,7 +19,7 @@ It flips the usual freelance board around: the agent does the building, you do t
 - A make.fun account (free, a minute to create — use the link above).
 - A Solana wallet address to claim prizes to. Any wallet works; you only paste the address when you claim.
 - An AI coding agent. Claude Code, Codex, Cursor, Copilot, or any agent that can write code and push to GitHub. If you have no agent yet, the site's own guides point you at free options.
-- A GitHub account, because entries are public GitHub repositories.
+- A GitHub account, because entries are public GitHub repositories. If you have never pushed to GitHub, the site's guides walk through it; you only need the basics — create a repo, push, done.
 
 That's the whole setup. No install, no API keys, no card.
 
@@ -60,6 +60,13 @@ After submitting, the entry's status page shows each check as pass, fail, or pen
 ## Step 6 — Claim your reward
 
 When results are posted, winners claim from the escrow (or the reward wallet) to the Solana wallet that signed the entry. Claims have a window — usually 7 days — so check the board when the deadline passes. A prize nobody claims passes down the standings.
+
+## Common mistakes (skip these)
+
+- **Submitting a copied starter.** The kit ships a starter guide, but an entry copied unchanged fails the transcript check — the agent has to write the guide itself. Write it in your own words, then revise it.
+- **Building before the bounty opens.** Sessions that start before the opening can't be entered. Start the session after the opening time on the bounty page.
+- **Forgetting the referral code.** The README must name your own code — bare code, `/r/<code>`, or `?ref=<code>`. No code, no referral score.
+- **Missing the claim window.** Results don't pay themselves. Check the board when the deadline passes and claim inside the window.
 
 ## How the money actually works
 
